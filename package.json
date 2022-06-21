@@ -1,0 +1,16 @@
+{
+  "name": "memcached",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Suraj Roy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "memcached": "^2.2.2"
+  }
+}
